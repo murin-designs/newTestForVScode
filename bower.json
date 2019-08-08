@@ -1,0 +1,20 @@
+{
+  "name": "npm install bower -g",
+  "homepage": "https://github.com/murin-designs/newTestForVScode",
+  "authors": [
+    "tyler murin <tyler.murin@e-hps.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
